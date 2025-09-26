@@ -1,5 +1,6 @@
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
-
+NAME:YESHWANTHKUMAR A
+REG NO:212223060311
 ## Aim
 The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools, assess its key electrical properties, and explore foundational CMOS principles, including the design workflow and simulation approaches.
 
@@ -42,36 +43,27 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 2. Schematic of CMOS Inverter:
 
-   ![image](https://github.com/user-attachments/assets/cbba1a98-bb12-417f-b0ab-edd8b4c78e7e)
+   <img width="1920" height="1080" alt="Screenshot 2025-09-25 180956" src="https://github.com/user-attachments/assets/58b5877f-3bbc-4de8-9f82-d3d3b43abc03" />
+
 
 #### 3. Transient Response Setup:
 
-![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+   <img width="516" height="606" alt="Screenshot 2025-09-25 180326" src="https://github.com/user-attachments/assets/f19292f8-d76f-4534-8f92-d43021742be6" />
 
+   <img width="868" height="631" alt="Screenshot 2025-09-25 181009" src="https://github.com/user-attachments/assets/96639a69-96a2-4d00-86de-a8588e6a9d24" />
 
-![image](https://github.com/user-attachments/assets/2611bd19-13be-4413-a662-9de3b555981d)
 
 
 
 ## Output
 #### 1.Transient Analysis Output
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-25 180930" src="https://github.com/user-attachments/assets/a04cd236-364a-443e-b403-c8f1c31ef1a4" />
+
 
 
 ## Results:
 
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
-2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
-3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
-
-
-
-
-
-
-
-
-
-
-
+2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage sw
